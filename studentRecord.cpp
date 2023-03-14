@@ -296,5 +296,6 @@ int main(){
         }
     }
 }
+//Display format:
 // S.no  Registration no.  Name                      DM      DAA     DAA L   DE      DE L    Python  OOPS    OOP L   ISCP    ECO     ISES  SGPA
 // 111   AP21110010123     yashwanth sai narasimha   9       9       9       9       9       9       9       9       9       9       9     sgpa
